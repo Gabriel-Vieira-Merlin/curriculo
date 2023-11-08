@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+.cabecalho{
+    padding: 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.linha_separadora{
+    border: 0;
+    border-top: 2px solid #22D4FD;
+    padding: 2%;
+}
+
+.conteudo_sobre{
+    padding: 0% 0% 2% 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.conteudo_sobre_info{
+    padding: 0% 0% 2% 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: disc;
+}
+
+.conteudo_qualificacoes{
+    padding: 0% 0% 2% 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.conteudo_qualificacoes_info{
+    padding: 0% 0% 2% 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: disc;
+}
+
+.conteudo_formacoes{
+    padding: 0% 0% 2% 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.conteudo_formacoes_info{
+    padding: 0% 0% 2% 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: disc;
+}
+
+.conteudo_info{
+    padding: 0% 0% 2% 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.conteudo_info_info{
+    padding: 0% 0% 2% 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: disc;
+}
+
+.conteudo_experiencias{
+    padding: 0% 0% 2% 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+.conteudo_experiencias_info{
+    padding: 0% 0% 2% 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #ffffff;
+    text-decoration: none;
+    list-style-type: disc;
+}
+
+.conteudo_sobre_imagem{
+    border-radius: 5%; 
+    position: absolute;
+    top: 35%;    
+    left: 65%;   
+    width: 400px; 
+    height: 400px;
+    border: 5px solid #22D4FD;
+}
+
+.rodape{
+    text-align: center;
+    padding: 14px;
+    color: #000000;
+    background-color: #22D4FD;
+    font-family: 'Montserrat', sans-serif;
+}
